@@ -70,6 +70,11 @@ That's it — your bot is live. ✅
 
 🇮🇷 Persian · 🇬🇧 English · 🇷🇺 Russian · 🇸🇦 Arabic · 🇪🇸 Spanish · 🇹🇷 Turkish · 🇫🇷 French · 🇩🇪 German · 🇵🇹 Portuguese · 🇮🇹 Italian · 🇮🇳 Hindi · 🇵🇰 Urdu · 🇦🇿 Azerbaijani · 🇺🇿 Uzbek · 🇮🇩 Indonesian
 
+### ⌨️ Default Commands
+
+- `/start` — opens the bot's main menu
+- `/lang` — change your language
+
 ### 💬 Contact & Support
 
 If you have any questions or need to get in touch, join our Telegram channel: [@NetraIR](https://t.me/NetraIR)
@@ -122,6 +127,11 @@ If you have any questions or need to get in touch, join our Telegram channel: [@
 ### 🈺 زبان‌های پشتیبانی‌شده
 
 🇮🇷 فارسی · 🇬🇧 انگلیسی · 🇷🇺 روسی · 🇸🇦 عربی · 🇪🇸 اسپانیایی · 🇹🇷 ترکی · 🇫🇷 فرانسوی · 🇩🇪 آلمانی · 🇵🇹 پرتغالی · 🇮🇹 ایتالیایی · 🇮🇳 هندی · 🇵🇰 اردو · 🇦🇿 آذربایجانی · 🇺🇿 ازبکی · 🇮🇩 اندونزیایی
+
+### ⌨️ کامندهای پیش‌فرض
+
+- `/start` — رفتن به صفحه اصلی ربات
+- `/lang` — تغییر زبان
 
 ### 💬 ارتباط با ما
 
@@ -176,6 +186,11 @@ If you have any questions or need to get in touch, join our Telegram channel: [@
 
 🇮🇷 Персидский · 🇬🇧 Английский · 🇷🇺 Русский · 🇸🇦 Арабский · 🇪🇸 Испанский · 🇹🇷 Турецкий · 🇫🇷 Французский · 🇩🇪 Немецкий · 🇵🇹 Португальский · 🇮🇹 Итальянский · 🇮🇳 Хинди · 🇵🇰 Урду · 🇦🇿 Азербайджанский · 🇺🇿 Узбекский · 🇮🇩 Индонезийский
 
+### ⌨️ Команды по умолчанию
+
+- `/start` — открывает главное меню бота
+- `/lang` — смена языка
+
 ### 💬 Связь и поддержка
 
 Если у вас есть вопросы или вы хотите связаться с нами, присоединяйтесь к нашему Telegram-каналу: [@NetraIR](https://t.me/NetraIR)
@@ -228,6 +243,11 @@ If you have any questions or need to get in touch, join our Telegram channel: [@
 ### 🈺 支持的语言
 
 🇮🇷 波斯语 · 🇬🇧 英语 · 🇷🇺 俄语 · 🇸🇦 阿拉伯语 · 🇪🇸 西班牙语 · 🇹🇷 土耳其语 · 🇫🇷 法语 · 🇩🇪 德语 · 🇵🇹 葡萄牙语 · 🇮🇹 意大利语 · 🇮🇳 印地语 · 🇵🇰 乌尔都语 · 🇦🇿 阿塞拜疆语 · 🇺🇿 乌兹别克语 · 🇮🇩 印尼语
+
+### ⌨️ 默认命令
+
+- `/start` — 打开机器人主菜单
+- `/lang` — 切换语言
 
 ### 💬 联系与支持
 
